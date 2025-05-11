@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../di_xlab_train2"
+		},
+		{
+			"name": "lab2_hw1_daiziang",
+			"path": "C:/Users/Huawei/Documents/PlatformIO/Projects/lab2_hw1_daiziang"
+		},
+		{
+			"name": "hw1",
+			"path": "../../../homework2.1_di/hw1"
+		},
+		{
+			"name": "hw2.1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
